@@ -2,7 +2,9 @@
 
 ## 用于学习vue和js的小项目
 
-目前用到的技术站有：vue3+vue-router+typescript+pinia+vite
+## 目前用到的技术站有
+
+vue3+vue-router+typescript+pinia+vite
 
 ## 安装依赖
 
